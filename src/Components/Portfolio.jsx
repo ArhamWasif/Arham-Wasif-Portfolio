@@ -41,8 +41,7 @@ const items = [
     title: "Portfolio App",
     demoLink: "https://arhamwasif.netlify.app/",
     img: "sc.png",
-    githubLink:
-      "https://github.com/Moon4797/Food-Ordering-System-in-Mern-Stack.git",
+    githubLink: "https://github.com/ArhamWasif/Arham-Wasif-Portfolio.git",
     desc: "Ensured seamless navigation without page reloads using React Router in a Single Page Application (SPA).Used CSS Flexbox and Grid along with media queries to ensure compatibility across various devices for a responsive design.Fetched and displayed content dynamically state management with React hooks. ",
   },
 ];
